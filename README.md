@@ -34,9 +34,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=anurag0608">
 
-
+## Listening to... 🎧
 [![Spotify](https://novatorem-rho-one.vercel.app/api/spotify)](https://open.spotify.com/user/vkgdlac0e3oesnsbj2vlhectz)
-
+<br/>
+### Join My [Playlist!](https://open.spotify.com/playlist/3LUEKIxNZVY1U4JQAzjYzG?si=6800ae8809c24c4b) 🎶🎵
 <!--
 **anurag0608/anurag0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
