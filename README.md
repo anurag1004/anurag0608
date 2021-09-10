@@ -14,7 +14,8 @@ Glad to see you here! <img src="https://komarev.com/ghpvc/?username=anurag0608&l
 🧑‍💻 I'm passionate backend developer!<br />
 🌐 I'm currently learning Internet! 😆  <br />
 🎵 I don't code without music 😜 <br />
-🎬 Anime > 🌍
+🎬 Anime > 🌍 <br />
+<br />
 
 **Languages and Tools:**  
 
