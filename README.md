@@ -10,7 +10,7 @@
 </a>
 <br />
 <br />
-Glad to see you here ! ![Visitor Count](https://profile-counter.glitch.me/anurag0608/count.svg) <br />
+Glad to see you here! <img src="https://komarev.com/ghpvc/?username=anurag0608&label=Profile%20views&color=ce9927&style=flat" alt="anurag0608" />
 🧑‍💻 I'm passionate backend developer!<br />
 🌐 I'm currently learning Internet! 😆  <br />
 🎵 I don't code without music 😜 <br />
