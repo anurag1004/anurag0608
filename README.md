@@ -10,7 +10,11 @@
 </a>
 <br />
 <br />
-
+Glad to see you here ! ![Visitor Count](https://profile-counter.glitch.me/anurag0608/count.svg) <br />
+🧑‍💻 I'm passionate backend developer!<br />
+🌐 I'm currently learning Internet! 😆  <br />
+🎵 I don't code without music 😜 <br />
+🎬 Anime > 🌍
 
 **Languages and Tools:**  
 
@@ -31,7 +35,6 @@
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag0608">
-
 <img src="https://github-readme-stats.vercel.app/api?username=anurag0608">
 
 ## Listening to... 🎧
