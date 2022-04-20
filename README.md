@@ -1,16 +1,17 @@
 ### Hi there 👋 I am Anurag Verma
 <a href="https://www.linkedin.com/in/anurag-verma-ba6718169/">
-  <img align="left" alt="Anurag's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Anurag's LinkdeIN" width="50px" src="https://s10.gifyu.com/images/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" />
 </a>
 <a href="https://leetcode.com/anurag0608/">
-  <img align="left" alt="Anurag's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Anurag's Leetcode" width="38px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" />
 </a>
 <a href="https://www.instagram.com/anurag_verma004/">
-  <img align="left" alt="Anurag's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Anurag's Instagram" width="75px" src="https://thumbs.gfycat.com/ScaredTartFunnelweaverspider-size_restricted.gif" />
 </a>
 <br />
 <br />
-Glad to see you here! <img src="https://komarev.com/ghpvc/?username=anurag0608&label=Profile%20views&color=ce9927&style=flat" alt="anurag0608" />
+<br /> Glad to see you here! 
+<img src="https://komarev.com/ghpvc/?username=anurag0608&label=Profile%20views&color=ce9927&style=flat" alt="anurag0608" />
 🧑‍💻 I'm passionate backend developer!<br />
 🌐 I'm currently learning Internet! 😆  <br />
 🎵 I don't code without music 😜 <br />
