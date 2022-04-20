@@ -35,7 +35,7 @@ Glad to see you here! <img src="https://komarev.com/ghpvc/?username=anurag0608&l
 <code><img height="20" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"></code>
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag0608">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag0608"> -->
 <img src="https://github-readme-stats.vercel.app/api?username=anurag0608">
 
 ## Listening to... 🎧
