@@ -42,7 +42,7 @@
 ## Listening to... 🎧
 [![Spotify](https://novatorem-rho-one.vercel.app/api/spotify)](https://open.spotify.com/user/vkgdlac0e3oesnsbj2vlhectz)
 <br/>
-### Join My [Playlist!](https://open.spotify.com/playlist/3LUEKIxNZVY1U4JQAzjYzG?si=6800ae8809c24c4b) 🎶🎵
+### Join My [Playlist!](https://open.spotify.com/embed/playlist/297fMpSYcrOJN7SxyxlXAK?utm_source=generator) 🎶🎵
 <!--
 **anurag0608/anurag0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
