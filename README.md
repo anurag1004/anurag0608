@@ -1,12 +1,12 @@
 ### Hi there 👋 I am Anurag Verma
 <a href="https://www.linkedin.com/in/anurag-verma-ba6718169/">
-  <img align="left" alt="Anurag's LinkdeIN" width="50px" src="https://s10.gifyu.com/images/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" />
+  <img align="left" alt="Anurag's LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/anurag0608/">
-  <img align="left" alt="Anurag's Leetcode" width="38px" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" />
+  <img align="left" alt="Anurag's Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 <a href="https://www.instagram.com/anurag_verma004/">
-  <img align="left" alt="Anurag's Instagram" width="75px" src="https://thumbs.gfycat.com/ScaredTartFunnelweaverspider-size_restricted.gif" />
+  <img align="left" alt="Anurag's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <br />
 <br />
