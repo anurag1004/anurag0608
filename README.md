@@ -38,7 +38,7 @@
 <code><img height="20" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
 <br />
-### 📊 Weekly stats
+<!--### 📊 Weekly stats-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ### Latest Blog Posts 📕
