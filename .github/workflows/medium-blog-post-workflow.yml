@@ -17,4 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@@anuragv.1020"
+          template: "<li><a href='$url'>$title</li>"
       - uses: gautamkrishnar/keepalive-workflow@v1 # add dummy commit in every 50days to avoid cron job suspension
