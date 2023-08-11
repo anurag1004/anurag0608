@@ -64,6 +64,9 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Chunk-by-Chunk: Tackling Big Data with Efficient File Reading in Chunks](https://medium.com/@anuragv.1020/chunk-by-chunk-tackling-big-data-with-efficient-file-reading-in-chunks-c6f7cf153ccd?source=rss-19494365c5d5------2)
+- [GoLang’s Custom JSON Marshal](https://medium.com/@anuragv.1020/golangs-custom-json-marshal-79ce2646ba8c?source=rss-19494365c5d5------2)
+- [GoLang’s JSON Marshal In A Nutshell](https://medium.com/@anuragv.1020/golangs-json-marshal-in-a-nutshell-cd428695df6b?source=rss-19494365c5d5------2)
 <!-- BLOG-POST-LIST:END -->
 
 
