@@ -40,6 +40,11 @@
 <br />
 <!--### 📊 Weekly stats-->
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 ### Latest Blog Posts 📕
 <!-- BLOG-POST-LIST:START -->
