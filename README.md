@@ -26,7 +26,7 @@
  
   <div id='about'>
     <a href='#'>
-      <img height='200px' src='https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif'/>
+      <img height='200rem' width='auto' src='https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif'/>
     </a>
     <p>🧑‍💻 Backend developer!</p>
     <p> 🌐 I'm currently learning Internet! 😆</p>
@@ -53,11 +53,11 @@
     <br />
   </div>
    <div align='center' id='spotify'>
-  <h2>Listening to... <img height='50px' width='auto' src='https://media.giphy.com/media/rPUKu805RPmCViz5EC/giphy.gif'/></h2>
+  <h2>Listening to... <img height='55rem' width='auto' src='https://media.giphy.com/media/rPUKu805RPmCViz5EC/giphy.gif'/></h2>
   <a href='https://open.spotify.com/user/vkgdlac0e3oesnsbj2vlhectz'>
     <img src='https://novatorem-rho-one.vercel.app/api/spotify'>
   </a>
-  <img height='150px' src='https://media.giphy.com/media/u8VX2TtOnURtEs2X2r/giphy.gif'/>
+  <img height='180rem' width='auto' src='https://media.giphy.com/media/u8VX2TtOnURtEs2X2r/giphy.gif'/>
   <h3>Join My <a href='https://open.spotify.com/embed/playlist/297fMpSYcrOJN7SxyxlXAK?utm_source=generator'>Playlist! 🎶🎵</a></h3>
 </div>
 </div>
