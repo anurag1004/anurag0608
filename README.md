@@ -26,12 +26,12 @@
  
   <div id='about'>
     <a href='#'>
-      <img height='200rem' width='auto' src='https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif'/>
+      <img height='200rem' width='auto' src='https://media.giphy.com/media/K3QdfuVMAL3HOongQP/giphy.gif'/>
     </a>
-    <p>🧑‍💻 Backend developer!</p>
-    <p> 🌐 I'm currently learning Internet! 😆</p>
-    <p> 🎵 I don't code without music 😜</p>
-    <p>🎬 Anime > 🌍</p>
+    <h3>🧑‍💻 Backend developer!</h3>
+    <h3> 🌐 I'm currently learning Internet! 😆</h3>
+    <h3> 🎵 I don't code without music 😜</h3>
+    <h3>🎬 Anime 💖 <img align='center' height='50rem' width='auto' src='https://media.giphy.com/media/nSiFFjn0xIgN5IUbPo/giphy.gif'></h3>
   </div>
   <div id='lang-tools'>
     <h2>Languages and Tools:</h2>
