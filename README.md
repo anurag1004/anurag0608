@@ -18,7 +18,7 @@
     </a>
   </div>
   <div id='profile-views'>
-    <p>Glad to see you here! </p>
+    <p><strong>Glad to see you here!<strong></p>
     <a href='#'>
       <img src="https://komarev.com/ghpvc/?username=anurag0608&label=Profile%20views&color=ce9927&style=flat" alt="anurag0608" />
     </a>
