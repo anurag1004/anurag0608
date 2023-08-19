@@ -53,7 +53,7 @@
     <br />
   </div>
   <div align='center' id='stats'>
-    <h3>📊<strong>This week I spent my time on<strong><h3>
+    <h3>📊<strong>This week I spent my time on</strong></h3>
     <img src='https://github-readme-stats-mu-liart-22.vercel.app/api/wakatime?username=anuragv1020&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777))'>
   </div>
    <div align='center' id='spotify'>
