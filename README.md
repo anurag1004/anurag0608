@@ -52,14 +52,18 @@
     <code><img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
     <br />
   </div>
+  <div align='center' id='stats'>
+    <h3>📊<strong>This week I spent my time on<strong><h3>
+    <img src='https://github-readme-stats-mu-liart-22.vercel.app/api/wakatime?username=anuragv1020&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777))'>
+  </div>
    <div align='center' id='spotify'>
-  <h2>Listening to... <img height='55rem' width='auto' src='https://media.giphy.com/media/rPUKu805RPmCViz5EC/giphy.gif'/></h2>
-  <a href='https://open.spotify.com/user/vkgdlac0e3oesnsbj2vlhectz'>
-    <img src='https://novatorem-rho-one.vercel.app/api/spotify'>
-  </a>
-  <img height='180rem' width='auto' src='https://media.giphy.com/media/u8VX2TtOnURtEs2X2r/giphy.gif'/>
-  <h3>Join My <a href='https://open.spotify.com/embed/playlist/297fMpSYcrOJN7SxyxlXAK?utm_source=generator'>Playlist! 🎶🎵</a></h3>
-</div>
+    <h2>Listening to... <img height='55rem' width='auto' src='https://media.giphy.com/media/rPUKu805RPmCViz5EC/giphy.gif'/></h2>
+    <a href='https://open.spotify.com/user/vkgdlac0e3oesnsbj2vlhectz'>
+      <img src='https://novatorem-rho-one.vercel.app/api/spotify'>
+    </a>
+    <img height='180rem' width='auto' src='https://media.giphy.com/media/u8VX2TtOnURtEs2X2r/giphy.gif'/>
+    <h3>Join My <a href='https://open.spotify.com/embed/playlist/297fMpSYcrOJN7SxyxlXAK?utm_source=generator'>Playlist! 🎶🎵</a></h3>
+  </div>
 </div>
 
 ## Latest Blog Posts 📕
